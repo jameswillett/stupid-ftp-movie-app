@@ -1,0 +1,8 @@
+const ftpConfig = {
+  host: "ip.address.here.yo",
+  port: "port",
+  user: "username",
+  password: "plaintextpassword"
+}
+
+module.exports = ftpConfig;
